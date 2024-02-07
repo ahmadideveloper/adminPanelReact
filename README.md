@@ -5,7 +5,7 @@
 username: test@gmail.com
 password: 1234
 
-- 🔗 [Demo Project]https://admin-panel-react1.vercel.app/login
+- 🔗 [Demo Project]https://admin-panel-react1.vercel.app/
 - 👨‍💻 developed by reza ahmadi 
 - 📆 Created - 2024-02-07
 - 🤖 Technologies Used - JavaScript, React, Mui
